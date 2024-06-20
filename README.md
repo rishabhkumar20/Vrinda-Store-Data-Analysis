@@ -8,6 +8,7 @@ Learn:
 4.	Data Visualization.
 5.	Report Making.
 6.	Sharing Insights with clint.
+   
 Question I solved for clint:
 1.	Compare the shales and orders using single chart?
 2.	Which month got the highest sales and orders?
